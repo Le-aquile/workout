@@ -1,7 +1,3 @@
-Thank you for the clarification! Here's the updated GitHub description based on your package name and context:
-
----
-
 ### Workout - Reinforcement Learning Package with Game Environment
 
 **Workout** is a reinforcement learning package that provides a game environment where agents can be trained. The package is designed to help reinforce learning concepts by providing a simple, interactive games to test RL algorithms like Q-learning, Deep Q Networks (DQN), and more.
